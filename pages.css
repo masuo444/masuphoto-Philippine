@@ -485,13 +485,6 @@ section {
     opacity: 0.6;
 }
 
-.book-footer-text {
-    opacity: 0.85;
-    text-transform: none;
-    letter-spacing: 0.02em;
-    line-height: 1.6;
-}
-
 .book-footer-inner a {
     display: block;
     margin-bottom: 0.2rem;
